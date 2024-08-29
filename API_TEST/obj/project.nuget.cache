@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9pv/LCpwpZk=",
+  "dgSpecHash": "F01oTsE3yVQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\API_TEST.csproj",
+  "projectFilePath": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\BaiTestAPI\\API_TEST\\API_TEST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Triss\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Triss\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

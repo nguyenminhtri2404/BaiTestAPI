@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\API_TEST.csproj": {}
+    "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\BaiTestAPI\\API_TEST\\API_TEST.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\API_TEST.csproj": {
+    "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\BaiTestAPI\\API_TEST\\API_TEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\API_TEST.csproj",
+        "projectUniqueName": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\BaiTestAPI\\API_TEST\\API_TEST.csproj",
         "projectName": "API_TEST",
-        "projectPath": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\API_TEST.csproj",
+        "projectPath": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\BaiTestAPI\\API_TEST\\API_TEST.csproj",
         "packagesPath": "C:\\Users\\Triss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\obj\\",
+        "outputPath": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\BaiTestAPI\\API_TEST\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Triss\\AppData\\Roaming\\NuGet\\NuGet.Config",

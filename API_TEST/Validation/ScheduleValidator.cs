@@ -22,8 +22,8 @@ namespace API_TEST.Validation
             RuleFor(x => x.EndTime).InclusiveBetween(new TimeSpan(0, 0, 0), new TimeSpan(23, 59, 59)).WithMessage("End time must be between 00:00 - 23:59");
 
             ////RepeatStart không được nhỏ hơn ngày hiện tại, ngày RepeatEnd không được nhỏ hơn ngày RepeatStart
-            //RuleFor(x => x.RepeatStart).GreaterThanOrEqualTo(DateTime.Now).WithMessage("Repeat start must be greater than or equal to current date");
-            //RuleFor(x => x.RepeatEnd).GreaterThanOrEqualTo(x => x.RepeatStart).WithMessage("Repeat end must be greater than or equal to repeat start");
+            RuleFor(x => x.RepeatStart).GreaterThanOrEqualTo(DateTime.Now).WithMessage("Repeat start must be greater than or equal to current date");
+            RuleFor(x => x.RepeatEnd).GreaterThanOrEqualTo(x => x.RepeatStart).WithMessage("Repeat end must be greater than or equal to repeat start");
 
         }
     }
