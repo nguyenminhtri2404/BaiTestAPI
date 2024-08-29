@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\desktop\\ontap\\on_api\\api_test\\api_test\\controllers\\recordingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\controllers\\recordingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\desktop\\ontap\\on_api\\api_test\\api_test\\services\\recordingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\services\\recordingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\desktop\\ontap\\on_api\\api_test\\api_test\\services\\playbackscheduleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\services\\playbackscheduleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\desktop\\ontap\\on_api\\api_test\\api_test\\data\\playbackschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\data\\playbackschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\desktop\\ontap\\on_api\\api_test\\api_test\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\desktop\\ontap\\on_api\\api_test\\api_test\\data\\recording.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\data\\recording.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\desktop\\ontap\\on_api\\api_test\\api_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\desktop\\ontap\\on_api\\api_test\\api_test\\models\\recordingrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\models\\recordingrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\desktop\\ontap\\on_api\\api_test\\api_test\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\desktop\\ontap\\on_api\\api_test\\api_test\\mapping\\mappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\mapping\\mappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\desktop\\ontap\\on_api\\api_test\\api_test\\data\\format.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\data\\format.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Migrations\\20240829085355_DB_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_TEST\\Migrations\\20240829085355_DB_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\desktop\\ontap\\on_api\\api_test\\api_test\\repositories\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\repositories\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\desktop\\ontap\\on_api\\api_test\\api_test\\data\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\data\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\desktop\\ontap\\on_api\\api_test\\api_test\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Migrations\\20240829080103_DB_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_TEST\\Migrations\\20240829080103_DB_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Helpers\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "API_TEST\\Helpers\\FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:58:02.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaybackSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Data\\PlaybackSchedule.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Data\\PlaybackSchedule.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Data\\PlaybackSchedule.cs",
+              "RelativeToolTip": "API_TEST\\Data\\PlaybackSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:50:43.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recording.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Data\\Recording.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Data\\Recording.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Data\\Recording.cs",
+              "RelativeToolTip": "API_TEST\\Data\\Recording.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:44:33.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecordingServices.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Services\\RecordingServices.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Services\\RecordingServices.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Services\\RecordingServices.cs",
+              "RelativeToolTip": "API_TEST\\Services\\RecordingServices.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAiwMIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:27:01.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaybackScheduleServices.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Services\\PlaybackScheduleServices.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Services\\PlaybackScheduleServices.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Services\\PlaybackScheduleServices.cs",
+              "RelativeToolTip": "API_TEST\\Services\\PlaybackScheduleServices.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:28:27.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Program.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Program.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Program.cs",
+              "RelativeToolTip": "API_TEST\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:37:05.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecordingController.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Controllers\\RecordingController.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Controllers\\RecordingController.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Controllers\\RecordingController.cs",
+              "RelativeToolTip": "API_TEST\\Controllers\\RecordingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:35:15.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecordingRespone.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Models\\RecordingRespone.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Models\\RecordingRespone.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Models\\RecordingRespone.cs",
+              "RelativeToolTip": "API_TEST\\Models\\RecordingRespone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:14:17.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Data\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Data\\MyDBContext.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Data\\MyDBContext.cs",
+              "RelativeToolTip": "API_TEST\\Data\\MyDBContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:56:26.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mappers.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Mapping\\Mappers.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Mapping\\Mappers.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Mapping\\Mappers.cs",
+              "RelativeToolTip": "API_TEST\\Mapping\\Mappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:21:52.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Format.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Data\\Format.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Data\\Format.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Data\\Format.cs",
+              "RelativeToolTip": "API_TEST\\Data\\Format.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:49:14.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240829085355_DB_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Migrations\\20240829085355_DB_Init.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Migrations\\20240829085355_DB_Init.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Migrations\\20240829085355_DB_Init.cs",
+              "RelativeToolTip": "API_TEST\\Migrations\\20240829085355_DB_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:53:55.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Repositories\\RepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Repositories\\RepositoryWrapper.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Repositories\\RepositoryWrapper.cs",
+              "RelativeToolTip": "API_TEST\\Repositories\\RepositoryWrapper.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:05:44.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "API_TEST\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:02:16.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Data\\Genre.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Data\\Genre.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Data\\Genre.cs",
+              "RelativeToolTip": "API_TEST\\Data\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:48:54.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240829080103_DB_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Migrations\\20240829080103_DB_Init.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Migrations\\20240829080103_DB_Init.cs",
+              "ToolTip": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\Migrations\\20240829080103_DB_Init.cs",
+              "RelativeToolTip": "API_TEST\\Migrations\\20240829080103_DB_Init.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:01:03.354Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

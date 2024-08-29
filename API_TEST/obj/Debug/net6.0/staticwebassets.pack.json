@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\wwwroot\\images\\TimeLine_638605338196256342.jpg",
+      "PackagePath": "staticwebassets\\images\\TimeLine_638605338196256342.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\wwwroot\\videos\\Coc_638605338196324339.mp4",
+      "PackagePath": "staticwebassets\\videos\\Coc_638605338196324339.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.API_TEST.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.API_TEST.props",
+      "PackagePath": "build\\API_TEST.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.API_TEST.props",
+      "PackagePath": "buildMultiTargeting\\API_TEST.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.API_TEST.props",
+      "PackagePath": "buildTransitive\\API_TEST.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,283 @@
+[
+  {
+    "ContainingType": "API_TEST.Controllers.PlaybackScheduleController",
+    "Method": "CreatePlaybackSchedule",
+    "RelativePath": "api/PlaybackSchedule",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playbackScheduleRequest",
+        "Type": "API_TEST.Models.PlaybackScheduleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_TEST.Controllers.PlaybackScheduleController",
+    "Method": "GetPlaybackSchedules",
+    "RelativePath": "api/PlaybackSchedule",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_TEST.Controllers.PlaybackScheduleController",
+    "Method": "UpdatePlaybackSchedule",
+    "RelativePath": "api/PlaybackSchedule/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "playbackScheduleRequest",
+        "Type": "API_TEST.Models.PlaybackScheduleRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_TEST.Controllers.PlaybackScheduleController",
+    "Method": "DeletePlaybackSchedule",
+    "RelativePath": "api/PlaybackSchedule/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_TEST.Controllers.PlaybackScheduleController",
+    "Method": "GetPlaybackSchedule",
+    "RelativePath": "api/PlaybackSchedule/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_TEST.Controllers.PlaybackScheduleController",
+    "Method": "GetPlaybackSchedules",
+    "RelativePath": "api/PlaybackSchedule/GetPlaybackSchedules",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_TEST.Controllers.RecordingController",
+    "Method": "CreateRecording",
+    "RelativePath": "api/Recording",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Artist",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "GenreID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "FormatID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Composer",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Duration",
+        "Type": "System.TimeSpan",
+        "IsRequired": false
+      },
+      {
+        "Name": "Thumbnail",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "VideoFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_TEST.Controllers.RecordingController",
+    "Method": "GetRecordings",
+    "RelativePath": "api/Recording",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_TEST.Controllers.RecordingController",
+    "Method": "UpdateRecording",
+    "RelativePath": "api/Recording/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Artist",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "GenreID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "FormatID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Composer",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Duration",
+        "Type": "System.TimeSpan",
+        "IsRequired": false
+      },
+      {
+        "Name": "Thumbnail",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "VideoFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_TEST.Controllers.RecordingController",
+    "Method": "DeleteRecording",
+    "RelativePath": "api/Recording/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_TEST.Controllers.RecordingController",
+    "Method": "GetRecording",
+    "RelativePath": "api/Recording/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_TEST.Controllers.RecordingController",
+    "Method": "GetRecordingsByFormat",
+    "RelativePath": "api/Recording/SortFormat/{format}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "format",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_TEST.Controllers.RecordingController",
+    "Method": "GetRecordingsByGenre",
+    "RelativePath": "api/Recording/SortGenre/{genre}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genre",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

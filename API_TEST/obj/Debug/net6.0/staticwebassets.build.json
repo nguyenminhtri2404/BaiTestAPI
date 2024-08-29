@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "XyK1FRUXRXs/R6llCjaOVaf2L5/2g7uxe3fekoWyH8A=",
+  "Source": "API_TEST",
+  "BasePath": "_content/API_TEST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API_TEST\\wwwroot",
+      "Source": "API_TEST",
+      "ContentRoot": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\wwwroot\\",
+      "BasePath": "_content/API_TEST",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\wwwroot\\images\\TimeLine_638605338196256342.jpg",
+      "SourceId": "API_TEST",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\wwwroot\\",
+      "BasePath": "_content/API_TEST",
+      "RelativePath": "images/TimeLine_638605338196256342.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\TimeLine_638605338196256342.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\wwwroot\\videos\\Coc_638605338196324339.mp4",
+      "SourceId": "API_TEST",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Triss\\Desktop\\ONTAP\\ON_API\\API_TEST\\API_TEST\\wwwroot\\",
+      "BasePath": "_content/API_TEST",
+      "RelativePath": "videos/Coc_638605338196324339.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\Coc_638605338196324339.mp4"
+    }
+  ]
+}
